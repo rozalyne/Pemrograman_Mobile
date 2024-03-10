@@ -1,4 +1,4 @@
-# Tugas Pemrograman Mobile - PROJEK 1
+# Tugas Pemrograman Mobile
 
 **Nama:** Ricky Erlangga Handoko
 **NPM:** 085022023
