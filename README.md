@@ -1,7 +1,7 @@
 # Tugas Pemrograman Mobile - PROJEK 1
 
 **Nama:** Ricky Erlangga Handoko
-**NIM:** 085022023
+**NPM:** 085022023
 
 ## Deskripsi Projek
 
