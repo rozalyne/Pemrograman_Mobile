@@ -1,4 +1,4 @@
-# Nama Proyek Anda
+# Pemrograman Mobile
 
 Tugas Menulis Kode yang ada di [codelabs.developers.google.com](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 
@@ -31,7 +31,6 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Nama Lisensi Anda].
+Proyek ini dilisensikan di bawah [].
 
 ---
-**Catatan:** Gantilah "Nama Proyek Anda" dan tambahkan lisensi yang sesuai dengan proyek Anda.
