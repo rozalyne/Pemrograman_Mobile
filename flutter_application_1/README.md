@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+Tugas Menulis Code yang ada di.
+https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0
 
 ## Getting Started
 
