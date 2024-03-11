@@ -2,7 +2,7 @@
 
 **Nama:** Ricky Erlangga Handoko
 **NPM:** 085022023
-
+**Mata Kuliah:** Pemrograman Mobile
 ## Deskripsi Projek
 
 Kode `main.dart` dapat ditemukan di folder `flutter_application_1/lib/`.
