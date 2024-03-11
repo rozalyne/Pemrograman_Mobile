@@ -1,7 +1,8 @@
-# Tugas Pemrograman Mobile - PROJEK 1
+# Tugas Pemrograman Mobile - PROJEK 1 BACKUP
 
 **Nama:** Ricky Erlangga Handoko
 **NPM:** 085022023
+**Matkul:** Pemrograman Mobile
 
 ## Deskripsi Projek
 
